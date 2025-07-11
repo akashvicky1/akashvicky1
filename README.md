@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👨‍💻 Akash Prajapati
 
-<!--
-**akashvicky1/akashvicky1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior IT Infrastructure System Engineer  
+📍 Ahmedabad, India  
+📫 Email: prajapatiakash123@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/akash-prajapati-b74905164) | [Portfolio Website](https://akashvicky1.github.io)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Key Skills
+![Linux](icons/linux.svg) ![AWS](icons/amazon-web-services.svg) ![Wazuh](icons/Wazuh.svg) ![Zabbix](icons/zabbix.svg) ![Grafana](icons/grafana.svg) ![Prometheus](icons/prometheus.svg)
+
+---
+
+### 💼 Work Experience
+- **Senior IT Infra Engineer**, Webelight Solutions *(Dec 2024 – Present)*
+- **Sr. IT Executive**, Growexx *(Jul 2023 – Dec 2024)*
+- _More listed on portfolio site..._
+
+---
+
+### 📁 Featured Projects
+- 🔒 **Wazuh & Zabbix Integration** – Real-time SIEM and performance monitoring
+- ☁️ **AWS Automation Scripts** – EC2 provisioning with CloudFormation and Bash
+- 📊 **Asset Management System** using Snipe-IT & LDAP
+
+---
+
+### 🖥️ Tools I Use
+![Snipe-IT](icons/snipe.svg) ![ChatGPT](icons/chatgpt-icon.svg) ![Gemini](icons/Google_Gemini_logo.svg) ![Veeam](icons/veeam.svg)
