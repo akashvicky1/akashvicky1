@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/akash-prajapati-b74905164" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://akashvicky1.github.io" target="_blank">
+  <a href="[https://akashvicky1.github.io](https://akashvicky1.github.io/akash-portfolio/)" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
   </a>
   <a href="mailto:prajapatiakash123@gmail.com">
